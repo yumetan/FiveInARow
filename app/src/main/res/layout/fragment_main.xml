@@ -1,8 +1,6 @@
 <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
             android:columnCount="5"
             android:rowCount="5"
-            android:alignmentMode="alignBounds"
-            layout_
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
